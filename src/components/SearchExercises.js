@@ -71,10 +71,10 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
             color: "#fff",
             textTransform: "none",
             width: { lg: "173px", xs: "80px" },
-            fontSize: { lg: "20px", xs: "14px" },
-            height: "61px",
+            height: "62px",
             position: "absolute",
-            right: "0",
+            right: "0px",
+            fontSize: { lg: "20px", xs: "14px" },
           }}
           onClick={handleSearch}
         >

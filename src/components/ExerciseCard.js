@@ -30,17 +30,17 @@ const ExerciseCard = ({ exercise }) => {
             textTransform: "capitalize",
           }}
         >
-          {exercise.bodyPart}
+          {exercise.target}
         </Button>
       </Stack>
       <Typography
         ml="21px"
         color="#000"
         fontWeight="bold"
+        sx={{ fontSize: { lg: "24px", xs: "20px" } }}
         mt="11px"
         pb="10px"
         textTransform="capitalize"
-        fontSize="22px"
       >
         {exercise.name}
       </Typography>

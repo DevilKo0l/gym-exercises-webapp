@@ -23,7 +23,13 @@ const Navbar = () => {
           style={{ width: "48px", height: "48px", margin: "0 20px" }}
         />
       </Link>
-      <Stack direction="row" gap="40px" fontSize="24px" alignItems="flex-end">
+      <Stack
+        direction="row"
+        gap="40px"
+        fontFamily="Alegreya"
+        fontSize="24px"
+        alignItems="flex-end"
+      >
         <Link
           to="/"
           style={{
