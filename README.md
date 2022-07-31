@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Gym exercise web application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
