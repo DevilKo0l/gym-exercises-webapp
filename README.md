@@ -8,7 +8,7 @@
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nat-gym.netlify.app/">View Demo</a>   
+    <a href="https://nat-gym.netlify.app/">Live Preview</a>   
     
   </p>
 </div>
@@ -38,7 +38,7 @@ You need to install [nodejs](https://nodejs.org/en/)
    ```sh
    git clone https://github.com/DevilKo0l/gym-exercises-webapp.git
    ```
-2. Install npm in gourmet-restaurant-web folder
+2. Install npm in gym-exercises-webapp folder
    ```
    npm install
    ```
